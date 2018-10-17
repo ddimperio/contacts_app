@@ -1,0 +1,3 @@
+json.array! @contacts
+
+
